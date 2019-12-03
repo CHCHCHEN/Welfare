@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Userdb"/>
+
+    <version value="1"/>
+
+    <list>"com.man.welfare.welfare.UserBeen</list>
+
+</litepal>
